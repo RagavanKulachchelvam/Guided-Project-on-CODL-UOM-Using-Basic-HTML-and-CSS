@@ -1,3 +1,7 @@
+body{
+    background-color: #e6f3ff;
+    padding: 5%;
+}
 
 .tagline{
     color: blueviolet;
@@ -22,7 +26,7 @@ table{
 td,
 th{
     text-align: left;
-    padding: 16px;
+    padding: 13px;
 }
 
 footer{
